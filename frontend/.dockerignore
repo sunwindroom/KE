@@ -1,0 +1,10 @@
+.git
+.gitignore
+node_modules
+.output
+dist
+.vite
+.env
+.env.*
+!.env.example
+*.md

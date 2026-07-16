@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Env files (never commit real credentials)
+.env
+.env.local
+*.env
+!*.env.example
+
+# Node / frontend build output
+node_modules/
+.output/
+dist/
+.vite/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
